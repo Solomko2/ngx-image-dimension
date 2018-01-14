@@ -44,7 +44,7 @@ Add this css to your css file
 Use in template like below
 
 ```html
-    <div style="width: 200px; height: 200px; overflow: hidden;" imageCenteredSize>
-      <img src="http://kb4images.com/images/image/37184284-image.jpg" alt="">
-    </div>
+<div style="width: 200px; height: 200px; overflow: hidden;" imageCenteredSize>
+    <img src="http://kb4images.com/images/image/37184284-image.jpg" alt="">
+</div>
 ```
