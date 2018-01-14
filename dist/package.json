@@ -1,6 +1,6 @@
 {
   "name": "ngx-image-dimension",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "",
   "main": "ngx-image-dimension.umd.js",
   "jsnext:main": "ngx-image-dimension.esm.js",
